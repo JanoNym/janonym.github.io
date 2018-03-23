@@ -1,6 +1,6 @@
 {
-  "name": "Stencil Starter",
-  "short_name": "Stencil",
+  "name": "Simon Spiel",
+  "short_name": "Simon",
   "start_url": "/",
   "display": "standalone",
   "icons": [{
@@ -9,5 +9,10 @@
     "type": "image/png"
   }],
   "background_color": "#16161d",
-  "theme_color": "#16161d"
+  "theme_color": "#16161d",
+  "lang": "de",
+  "description": "Raphael Hackspiel, Monika Kroner, Jan Koppandi",
+  "display": "fullscreen",
+  "orientation": "landscape"
+
 }
